@@ -1,2 +1,6 @@
 ﻿.venv/
 htmlcov/
+.coverage
+.scannerwork/
+__pycache__/
+.vscode/
